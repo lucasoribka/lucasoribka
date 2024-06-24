@@ -13,9 +13,9 @@
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vue" height="30" alt="vue logo"  />
+  <img src="https://skillicons.dev/icons?i=c#" height="30" alt="vue logo"  />
   <img src="https://skillicons.dev/icons?i=ts" height="30" alt="ts logo"  />
-  <img src="https://skillicons.dev/icons?i=flutter" height="30" alt="flutter logo" />
-  <img src="https://skillicons.dev/icons?i=dart" height="30" alt="dart logo" />
-  <img src="https://skillicons.dev/icons?i=go" height="30" alt="go logo"  />
+  <img src="https://skillicons.dev/icons?i=python" height="30" alt="flutter logo" />
+  <img src="https://skillicons.dev/icons?i=net" height="30" alt="dart logo" />
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="go logo"  />
 </div>
